@@ -27,7 +27,7 @@ public class App
         "+1apS4..."));
 
         // Your namespace
-        String bucketnamespace = "frsxwtjslf35";
+        String bucketnamespace = "";
         // The region to connect to eg: "uk-london-1"
         String region = "";
 
